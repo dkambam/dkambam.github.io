@@ -105,3 +105,16 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/dheerajkambam/"
+  - title: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/dkambam"
+  - title: "YouTube"
+    icon: "fab fa-fw fa-youtube"
+    url: "https://www.youtube.com/channel/UCgBwKv5ctsVD4yYvhHnsXeA"
+  - title: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/dkambam"
+
