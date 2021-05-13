@@ -218,6 +218,12 @@
   }
 }
 
+.layout--about {
+  .page-wrapper {
+    text-align: center;
+  }
+}
+
 .layout--post {
   .page-wrapper {
     @include breakpoint($large) {
