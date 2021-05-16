@@ -7,7 +7,8 @@ elements:
   - formatting
   - html
   - markup
-last_modified_at: 2021-05-14T14:02:51Z
+last_modified_at: 2021-05-16T00:54:39Z
+permalink: /magic/
 ---
 
 
